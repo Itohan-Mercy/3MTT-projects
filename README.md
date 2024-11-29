@@ -1,7 +1,9 @@
 # 3MTT-projects
 This repository documents my capstone project as a Data Science Fellow at 3MTT Nigeria.
 
-# COVID-19 Global Spread Analysis EDA, ML Model and Report
+# COVID-19 Global Spread Analysis EDA and ML Model
+# Covid 19 Global Spread Analysis Report 
+# Covid 19 Analysis: Findings and Public Health Insights (Powerpoint Presentation)
 
 This comprehensive analysis examines the global spread of COVID-19 during the first seven months of the pandemic (January - July 2020), providing critical insights into the virus's transmission, impact, and implications for global health response.
 
